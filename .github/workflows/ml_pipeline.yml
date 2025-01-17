@@ -22,4 +22,4 @@ jobs:
         pip install -r venv/requirements.txt
 
     - name: Run Model Training
-      run: python model.py
+      run: python Model.py
