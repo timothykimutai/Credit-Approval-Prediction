@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 import joblib
 
 # %%
-df = pd.read_csv('clean_dataset.csv')
+df = pd.read_csv('venv/clean_dataset.csv')
 
 # %%
 df.head()
