@@ -1,0 +1,94 @@
+# Build directories
+/build/
+/dist/
+/out/
+/target/
+/bin/
+
+# Dependencies
+/node_modules/
+/bower_components/
+/jspm_packages/
+/vendor/
+/.pnp/
+.pnp.js
+
+# Python virtual environments
+/venv/
+/.env/
+/.venv/
+/ENV/
+/env/
+/env.bak/
+# IDE
+/.idea/
+/.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+*.iml
+*.iws
+*.ipr
+.factorypath
+
+# Editor temp files
+*~
+*.swp
+*.swo
+.DS_Store
+# Logs
+/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.mdb
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Configuration with secrets
+/config/secrets.yml
+credentials.json
+*secrets*
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+coverage.xml
+*.cover
+# Documentation
+/site
+/docs/_build/
+/doc/_build/
+
+# Packaging
+/dist/
+/sdist/
+/wheels/
